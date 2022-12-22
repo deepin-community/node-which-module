@@ -1,0 +1,26 @@
+node-which-module (2.0.0-2) unstable; urgency=medium
+
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Bump debhelper from deprecated 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Apply multi-arch hints.
+    + node-which-module: Add Multi-Arch: foreign.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sun, 29 Aug 2021 01:28:24 +0100
+
+node-which-module (2.0.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Pirate Praveen <praveen@debian.org>  Sun, 10 Dec 2017 22:19:42 +0530
+
+node-which-module (1.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #845337)
+
+ -- Pirate Praveen <praveen@debian.org>  Tue, 22 Nov 2016 21:54:54 +0530
